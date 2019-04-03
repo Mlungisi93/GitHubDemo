@@ -4,3 +4,4 @@ Git is awesone
 Exercise 7
 </p>
 String actionToTake = "5";
+String name = "Myname";
